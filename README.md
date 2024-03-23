@@ -1,1 +1,1 @@
-# ashh-simple-calculator00
+Hey! my first project done of cli simple calculator which is made from typescript and nodejs given by sir Zia khan. In this project we using showcase conditional statements operators conditions functions and obvious command prompt.
